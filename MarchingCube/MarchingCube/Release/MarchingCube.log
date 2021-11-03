@@ -1,0 +1,13 @@
+﻿  main.cpp
+e:\a_sang_opengl\a_a_a_sang\marchingcube\marchingcube\marchingcube\vec3.h(22): warning C4005: 'min': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(197): note: see previous definition of 'min'
+e:\a_sang_opengl\a_a_a_sang\marchingcube\marchingcube\marchingcube\vec3.h(23): warning C4005: 'max': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(193): note: see previous definition of 'max'
+main.cpp(632): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  116 of 116 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    8 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MarchingCube.vcxproj -> E:\a_Sang_OpenGL\a_a_a_Sang\MarchingCube\MarchingCube\Release\MarchingCube.exe
+  MarchingCube.vcxproj -> E:\a_Sang_OpenGL\a_a_a_Sang\MarchingCube\MarchingCube\Release\MarchingCube.pdb (Full PDB)
